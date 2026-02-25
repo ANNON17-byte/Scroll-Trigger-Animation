@@ -43,3 +43,7 @@ Canvas rendering
 ScrollTrigger configuration
 Timeline-based entrance and exit animations
 Frames are stored inside the public frames directory and named sequentially.
+
+Deployed On Netlify :
+
+https://scrolltriggerr.netlify.app
